@@ -8,6 +8,6 @@ Covers: Glossy 300g;
 
 Pages: Matte 150g;
 
-Bleed: 3mmm;
+Bleed: 3mm;
 
 Donate to the project: https://bitcoin-takeover.com/donate/
